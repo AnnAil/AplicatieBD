@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <p>
-            &nbsp;</p>
+            <asp:Button ID="Button3" runat="server" Text="Ana's button" />
+        </p>
         <p style="margin-left: 40px">
             Platforma de verificare pentru licenta.</p>
         <p style="margin-left: 40px">
