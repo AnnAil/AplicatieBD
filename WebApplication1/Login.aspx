@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <p>
             <asp:Button ID="Button3" runat="server" Text="Ana's button" />
+            <asp:Button ID="Button4" runat="server" Text="again" />
         </p>
         <p style="margin-left: 40px">
             Platforma de verificare pentru licenta.</p>
